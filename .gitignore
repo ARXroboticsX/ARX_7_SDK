@@ -1,0 +1,11 @@
+build/
+devel/
+.catkin_workspace
+
+**build/
+**devel/
+**.catkin_workspace
+
+**/src/.vscode
+**/src/CMakeLists.txt
+
